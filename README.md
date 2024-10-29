@@ -1,6 +1,7 @@
 # SMARTWEBAIRLINES
 
 Aplicação desenvolida com Java 8 e apresenta a mensagem de erro:
+
 ======================== SMARTWEB AIRLINES ========================
 Exception in thread "main" java.util.NoSuchElementException: No value present
 	at java.base/java.util.Optional.get(Optional.java:143)
